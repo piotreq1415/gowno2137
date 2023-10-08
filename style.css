@@ -1,0 +1,33 @@
+body {
+    background-image: url('./img/stars.png'); 
+    background-repeat: repeat; 
+    word-wrap: break-word;
+}
+
+.content-container {
+   max-width: 40%; 
+   margin: 0 auto; 
+   padding: 10px; 
+}
+
+p {
+   color: rgb(204, 204, 204);
+   font-family: system-ui, sans-serif;
+}
+
+
+h5, h, h3, h1, h4 {
+   color: white;
+   font-family: system-ui, sans-serif;
+}
+
+
+
+a, a1 {
+   color: green;
+   font-family: system-ui, sans-serif;
+   font-size: 20px;
+   text-decoration: none;
+   font-weight: bold;
+   padding: 0px 10px 10px 10px;
+}
